@@ -8,4 +8,4 @@ Language: C (HAL based)
 -ADC1 configured  
 -ADC data transferred using DMA2 (circular mode)  
 -ADC values transmitted via UART (USART2)  
--Outputs displayed on TeraTerm
+-Outputs displayed on serial terminal
